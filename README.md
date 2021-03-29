@@ -9,4 +9,4 @@ This project aims to segment the ridership data and build a regression model whi
 
 The main findings in the data have been presented in graphical format and the data analysis has been carried out in Python
 
-The models used in the analysis are linear regression and a multiple linear
+The models used in the analysis are linear regression and a multiple linear regression
