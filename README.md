@@ -1,7 +1,7 @@
 # bicycle_ridership_prediction
 Data analysis and bicycle ridership prediction in NYC.
 
-The data consist of details of bridge bicycle volumes at four bridges in USA from April-October 2017
+The data consists of details of bridge bicycle volumes at four bridges in USA (April-October 2017)
 
 Included in the data are variables such as the week days, holidays, and weather condition
 
